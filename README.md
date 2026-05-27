@@ -11,7 +11,7 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,idea&theme=dark)
 
 ### Database Tools 
-![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)
 
 ### Version Control
 
