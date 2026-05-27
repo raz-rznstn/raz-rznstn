@@ -1,16 +1,19 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+it's+Raz!;Welcome+to+my+Github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<!--
-**raz-rznstn/raz-rznstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=RazRozenstein&color=green)
 
-Here are some ideas to get you started:
+### Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cs,javascript&theme=dark)
+
+### IDEs
+
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,idea&theme=dark)
+### Database Tools 
+![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)
+
+### Tools
+
+![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)
+
+![](https://github.com/raz-rznstn/raz-rznstn/blob/output/github-contribution-grid-snake.svg)
