@@ -9,10 +9,11 @@
 ### IDEs
 
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,idea&theme=dark)
+
 ### Database Tools 
 ![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=dark)
 
-### Tools
+### Version Control
 
 ![My Skills](https://skillicons.dev/icons?i=git,github&theme=dark)
 
